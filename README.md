@@ -1,7 +1,7 @@
 # AIFFEL-Project
 
 ## Fundamental
-|  | Contents | Blog<br>Link |
+|  | Contents | Blog Link |
 |:--:|:---------------------------------------:|:----:|
 | 01 | 인공지능 개발자가 되기 위한 위대한 첫 걸음 | [🏃‍♂️](https://velog.io/@tjddus0302/FUNDAMENTAL-01.-terminal-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD) |
 | 02 | 터미널로 배우는 리눅스 운영체제 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-02.-Linux) [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-02-2.-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C) |
