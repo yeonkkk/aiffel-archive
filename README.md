@@ -26,5 +26,5 @@
 |:--:|:---------------------------------------:|:----:|:----:|:----:|
 | 01 | 인공지능과 가위바위보 하기 | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration1/summary) | 가위바위보 분류기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration1/project) |
 | 02 | Iris의 세 가지 품종, 분류해볼 수 있겠어요? | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration2/summary) | 사이킷런 Toy Dataset 분류 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration2/project) |
-| 03 | 카메라 스티커앱 만들기 첫걸음 | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration3/summary) | 얼굴인식을 통한 고양이 수염 스티커 만들기 | []() |
+| 03 | 카메라 스티커앱 만들기 첫걸음 | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration3/summary) | 얼굴인식을 통한 고양이 수염 스티커 만들기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration3/project) |
 | 04 | 작사가 인공지능 만들기 | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration4/summary) | 작사 인공지능 만들기 | []() |
