@@ -1,4 +1,4 @@
-# AIFFEL-Project
+# ✨AIFFEL-Project
 
 ## Fundamental
 |  | Contents | Blog Link |
@@ -18,7 +18,8 @@
 | 13 | 당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-13.-%EB%82%98%EB%A7%8C%EC%9D%98-n%EB%A9%B4%EC%B2%B4-%EC%A3%BC%EC%82%AC%EC%9C%84-%EB%A7%8C%EB%93%A4%EA%B8%B0Class) |
 | 14 | 딥러닝과 신경망의 본질 | []() |
 
----
+
+<br>
 
 <br>
 
@@ -33,9 +34,9 @@
 
 
 
+<br>
+<br>
 
-
----
 # 🌱풀잎 스쿨
 
 
