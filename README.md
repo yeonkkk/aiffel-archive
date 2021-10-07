@@ -46,10 +46,10 @@
 ## Python Master
 |  | Contents | Blog Link |
 |:--:|:---------------------------------------:|:----:|
-| 02 | 문법, 연산, 변수, 출력 | [🏃‍♀️](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-1.-%EB%AC%B8%EB%B2%95-%EC%97%B0%EC%82%B0-%EB%B3%80%EC%88%98-%EC%B6%9C%EB%A0%A5) |
-| 03 | 불, 문자열, 리스트, 튜플 | [🏃‍♀️](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-2.-%EB%B6%88-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80-%ED%8A%9C%ED%94%8C) |
-| 04 | 시퀀스, 딕셔너리, if 조건문 | [🏃‍♀](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-3.-%EC%8B%9C%ED%80%80%EC%8A%A4) |
-| 05 | if else, elif, for 반복문 | [🏃‍♀](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-4.-else-elif-for%EB%AC%B8) |
-| 06 | while, break, continue | [🏃‍♀](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-5.-while-break-continue) |
-| 07 | 함수, 위치 인수와 키워드 | [🏃‍♀](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-6) |
-| 08 | 클래스, 상속 | [🏃‍♀](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-7.-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%83%81%EC%86%8D) |
+| 01 | 문법, 연산, 변수, 출력 | [🏃‍♀️](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-1.-%EB%AC%B8%EB%B2%95-%EC%97%B0%EC%82%B0-%EB%B3%80%EC%88%98-%EC%B6%9C%EB%A0%A5) |
+| 02 | 불, 문자열, 리스트, 튜플 | [🏃‍♀️](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-2.-%EB%B6%88-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80-%ED%8A%9C%ED%94%8C) |
+| 03 | 시퀀스, 딕셔너리, if 조건문 | [🏃‍♀](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-3.-%EC%8B%9C%ED%80%80%EC%8A%A4) |
+| 04 | if else, elif, for 반복문 | [🏃‍♀](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-4.-else-elif-for%EB%AC%B8) |
+| 05 | while, break, continue | [🏃‍♀](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-5.-while-break-continue) |
+| 06 | 함수, 위치 인수와 키워드 | [🏃‍♀](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-6) |
+| 07 | 클래스, 상속 | [🏃‍♀](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-7.-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%83%81%EC%86%8D) |
