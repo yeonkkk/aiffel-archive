@@ -16,7 +16,7 @@
 | 11 | 사이킷런으로 구현해 보는 머신러닝 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-11.-%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0) |
 | 12 | 파이썬으로 이미지 파일 다루기 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-12.-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%EB%8B%A4%EB%A3%A8%EA%B8%B0Pillow-OpenCV) |
 | 13 | 당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-13.-%EB%82%98%EB%A7%8C%EC%9D%98-n%EB%A9%B4%EC%B2%B4-%EC%A3%BC%EC%82%AC%EC%9C%84-%EB%A7%8C%EB%93%A4%EA%B8%B0Class) |
-| 14 | 딥러닝과 신경망의 본질 | []() |
+| 14 | 딥러닝과 신경망의 본질 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-14.-%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B3%BC-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9D%98-%EB%B3%B8%EC%A7%88) |
 
 
 <br>
