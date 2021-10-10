@@ -54,3 +54,14 @@
 | 05 | while, break, continue | [🏃‍♀](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-5.-while-break-continue) |
 | 06 | 함수, 위치 인수와 키워드 | [🏃‍♀](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-6) |
 | 07 | 클래스, 상속 | [🏃‍♀](https://velog.io/@tjddus0302/%ED%92%80%EC%9E%8E%EC%8A%A4%EC%BF%A8-Day-7.-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%83%81%EC%86%8D) |
+
+
+<br>
+<br>
+
+## Deep Learning
+|  | Contents | Blog Link |
+|:--:|:---------------------------------------:|:----:|
+| 01 | CS231n Lecture 1. Introduction to Convolutional Neural Networks for Visual Recognition | [🌵](https://velog.io/@tjddus0302/CS231n-Lecture-1) |
+| 02 | CS231n Lecture 2. Image Classification pipeline | []() |
+| 03 | CS231n Lecture 3. Loss Functions and Optimization | []() |
