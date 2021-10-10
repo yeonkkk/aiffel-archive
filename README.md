@@ -61,7 +61,7 @@
 
 ## Deep Learning
 |  | Contents | Blog Link |
-|:--:|:---------------------------------------:|:----:|
+|:--:|:---------------------------------------|:----:|
 | 01 | CS231n Lecture 1. Introduction to Convolutional Neural Networks for Visual Recognition | [🌵](https://velog.io/@tjddus0302/CS231n-Lecture-1) |
 | 02 | CS231n Lecture 2. Image Classification pipeline | []() |
 | 03 | CS231n Lecture 3. Loss Functions and Optimization | []() |
