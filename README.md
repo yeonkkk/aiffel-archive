@@ -65,3 +65,4 @@
 | 01 | Introduction to Convolutional Neural Networks for Visual Recognition | [🌵](https://velog.io/@tjddus0302/CS231n-Lecture-1) |
 | 02 | Image Classification pipeline | [🌵](https://velog.io/@tjddus0302/CS231n-Lecture-2) |
 | 03 | Loss Functions and Optimization | [🌵](https://velog.io/@tjddus0302/CS231n-Lecture-3) |
+| 04 | Backpropagation and neural networks | [🌵](https://velog.io/@tjddus0302/CS231n-Lecture-4) |
