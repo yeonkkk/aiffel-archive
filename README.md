@@ -31,7 +31,7 @@
 | 02 | Iris의 세 가지 품종, 분류해볼 수 있겠어요? | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration2/summary) | 사이킷런 Toy Dataset 분류 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration2/project) |
 | 03 | 카메라 스티커앱 만들기 첫걸음 | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration3/summary) | 얼굴인식으로 고양이 수염 스티커 붙이기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration3/project) |
 | 04 | 작사가 인공지능 만들기 | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration4/summary) | 작사 인공지능 만들기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration4/project) |
-| 05 | 나랑 닮은 연예인은 누구? | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration5/summary) | 나랑닮은 연예인을 찾아보자 | []() |
+| 05 | 나랑 닮은 연예인은 누구? | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration5/summary) | 나랑닮은 연예인을 찾아보자 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration5/project) |
 
 
 
