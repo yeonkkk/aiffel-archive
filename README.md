@@ -18,6 +18,8 @@
 | 13 | 당신의 행운의 숫자는? 나만의 n면체 주사위 위젯 만들기 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-13.-%EB%82%98%EB%A7%8C%EC%9D%98-n%EB%A9%B4%EC%B2%B4-%EC%A3%BC%EC%82%AC%EC%9C%84-%EB%A7%8C%EB%93%A4%EA%B8%B0Class) |
 | 14 | 딥러닝과 신경망의 본질 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-14.-%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B3%BC-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9D%98-%EB%B3%B8%EC%A7%88) |
 | 15 | 딥러닝 들여다보기 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-15.-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%93%A4%EC%97%AC%EB%8B%A4%EB%B3%B4%EA%B8%B0) |
+| 16 | 선형 회귀와 로지스틱 회귀 | []() |
+| 17 | 비지도 학습 | []() |
 
 
 <br>
@@ -32,8 +34,8 @@
 | 03 | 카메라 스티커앱 만들기 첫걸음 | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration3/summary) | 얼굴인식으로 고양이 수염 스티커 붙이기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration3/project) |
 | 04 | 작사가 인공지능 만들기 | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration4/summary) | 작사 인공지능 만들기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration4/project) |
 | 05 | 나랑 닮은 연예인은 누구? | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration5/summary) | 나랑닮은 연예인을 찾아보자 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration5/project) |
-
-
+| 06 | 나의 첫 번째 캐글 경진대회, 무작정 따라해보기 | []() | 캐글 Leaderboard를 정복하기 | []() |
+| 07 | 영화리뷰 텍스트 감성분석하기 | []() | 네이버 영화리뷰 감성분석 도전하기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration7/project) |
 
 <br>
 <br>
