@@ -19,7 +19,7 @@
 | 14 | 딥러닝과 신경망의 본질 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-14.-%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B3%BC-%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%9D%98-%EB%B3%B8%EC%A7%88) |
 | 15 | 딥러닝 들여다보기 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-15.-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%93%A4%EC%97%AC%EB%8B%A4%EB%B3%B4%EA%B8%B0) |
 | 16 | 선형 회귀와 로지스틱 회귀 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-16.-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80%EC%99%80-%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1-%ED%9A%8C%EA%B7%80) |
-| 17 | 비지도 학습 | []() |
+| 17 | 비지도 학습 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-17.-%EB%B9%84%EC%A7%80%EB%8F%84-%ED%95%99%EC%8A%B5) |
 
 
 <br>
