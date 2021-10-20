@@ -35,7 +35,7 @@
 | 03 | 카메라 스티커앱 만들기 첫걸음 | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration3/summary) | 얼굴인식으로 고양이 수염 스티커 붙이기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration3/project) |
 | 04 | 작사가 인공지능 만들기 | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration4/summary) | 작사 인공지능 만들기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration4/project) |
 | 05 | 나랑 닮은 연예인은 누구? | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration5/summary) | 나랑닮은 연예인을 찾아보자 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration5/project) |
-| 06 | 나의 첫 번째 캐글 경진대회, 무작정 따라해보기 | []() | 캐글 Leaderboard를 정복하기 | []() |
+| 06 | 나의 첫 번째 캐글 경진대회, 무작정 따라해보기 | []() | 캐글 Leaderboard를 정복하기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration6/project) |
 | 07 | 영화리뷰 텍스트 감성분석하기 | []() | 네이버 영화리뷰 감성분석 도전하기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration7/project) |
 
 <br>
