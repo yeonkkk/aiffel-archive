@@ -37,7 +37,7 @@
 | 05 | 나랑 닮은 연예인은 누구? | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration5/summary) | 나랑닮은 연예인을 찾아보자 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration5/project) |
 | 06 | 나의 첫 번째 캐글 경진대회, 무작정 따라해보기 | []() | 캐글 Leaderboard를 정복하기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration6/project) |
 | 07 | 영화리뷰 텍스트 감성분석하기 | []() | 네이버 영화리뷰 감성분석 도전하기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration7/project) |
-| 08 | 인물사진을 만들어 보자 | []() | shallow focus | ]() |
+| 08 | 인물사진을 만들어 보자 | []() | shallow focus | []() |
 
 <br>
 <br>
