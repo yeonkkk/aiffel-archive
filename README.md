@@ -21,6 +21,7 @@
 | 16 | 선형 회귀와 로지스틱 회귀 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-16.-%EC%84%A0%ED%98%95-%ED%9A%8C%EA%B7%80%EC%99%80-%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1-%ED%9A%8C%EA%B7%80) |
 | 17 | 비지도 학습 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-17.-%EB%B9%84%EC%A7%80%EB%8F%84-%ED%95%99%EC%8A%B5) |
 | 18 | TF2 API 개요 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-18.-TF2-API-%EA%B0%9C%EC%9A%94) |
+| 19 | 딥네트워크, 서로 뭐가 다른거죠? | []() |
 
 
 <br>
