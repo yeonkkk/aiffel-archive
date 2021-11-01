@@ -23,7 +23,7 @@
 | 18 | TF2 API 개요 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-18.-TF2-API-%EA%B0%9C%EC%9A%94) |
 | 19 | 딥네트워크, 서로 뭐가 다른거죠? | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-19.-%EB%94%A5%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%9C%EB%A1%9C-%EB%AD%90%EA%B0%80-%EB%8B%A4%EB%A5%B8-%EA%B1%B0%EC%A3%A0) |
 | 20 | 딥러닝 레이어의 이해(1) Linear, Convolution | []() |
-| 21 | 딥러닝 레이어의 이해(2) Embedding, Recurrent | []() |
+| 21 | 딥러닝 레이어의 이해(2) Embedding, Recurrent | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-21.-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%9D%98-%EC%9D%B4%ED%95%B42) |
 
 <br>
 
