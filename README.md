@@ -42,7 +42,7 @@
 | 08 | 인물사진을 만들어 보자 | []() | Semantic segmentation | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration8/project) |
 | 09 | 아이유팬이 좋아할 만한 다른 아티스트 찾기 | []() | 추천 시스템 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration9/project) |
 | 10 | 뉴스 요약봇 만들기 | []() | news summarization | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration10/project) |
-| 10 | 폐렴아 기다려라! | []() |  Pneumonia Diagnosis | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration11/project) |
+| 11 | 폐렴아 기다려라! | []() |  Pneumonia Diagnosis | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration11/project) |
 
 <br>
 <br>
