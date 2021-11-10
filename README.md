@@ -24,6 +24,11 @@
 | 19 | 딥네트워크, 서로 뭐가 다른거죠? | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-19.-%EB%94%A5%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EC%84%9C%EB%A1%9C-%EB%AD%90%EA%B0%80-%EB%8B%A4%EB%A5%B8-%EA%B1%B0%EC%A3%A0) |
 | 20 | 딥러닝 레이어의 이해(1) Linear, Convolution | []() |
 | 21 | 딥러닝 레이어의 이해(2) Embedding, Recurrent | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-21.-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EB%A0%88%EC%9D%B4%EC%96%B4%EC%9D%98-%EC%9D%B4%ED%95%B42) |
+| 22 | Regularization | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-22.-Regularization) |
+| 23 | 활성화 함수의 이해 | []() |
+| 24 | Likelihood(MLE와 MAP) | []() |
+| 25 | 정보이론 톺아보기 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-25.-%EC%A0%95%EB%B3%B4%EC%9D%B4%EB%A1%A0-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0) |
+| 26 | 컴퓨터 파워 UP | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-26.-%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%8C%8C%EC%9B%8C-UP) |
 
 <br>
 
