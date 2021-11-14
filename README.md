@@ -45,7 +45,7 @@
 | 06 | 나의 첫 번째 캐글 경진대회, 무작정 따라해보기 | []() | 캐글 Leaderboard를 정복하기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration6/project) |
 | 07 | 영화리뷰 텍스트 감성분석하기 | []() | 네이버 영화리뷰 감성분석 도전하기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration7/project) |
 | 08 | 인물사진을 만들어 보자 | []() | Semantic segmentation | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration8/project) |
-| 09 | 아이유팬이 좋아할 만한 다른 아티스트 찾기 | []() | 추천 시스템 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration9/project) |
+| 09 | 아이유팬이 좋아할 만한 다른 아티스트 찾기 | []() | Movie Recommendation | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration9/project) |
 | 10 | 뉴스 요약봇 만들기 | []() | news summarization | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration10/project) |
 | 11 | 폐렴아 기다려라! | []() |  Pneumonia Diagnosis | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration11/project) |
 | 12 | 다음에 볼 영화 예측하기 | []() |  Predict Next Movie | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration12/project) |
