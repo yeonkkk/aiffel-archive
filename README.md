@@ -49,6 +49,9 @@
 | 10 | 뉴스 요약봇 만들기 | []() | news summarization | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration10/project) |
 | 11 | 폐렴아 기다려라! | []() |  Pneumonia Diagnosis | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration11/project) |
 | 12 | 다음에 볼 영화 예측하기 | []() |  Predict Next Movie | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration12/project) |
+| 13 | 인공지능으로 세상에 없던 새로운 패션 만들기 | []() | CIFAR10 DCGAN | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration13/project) |
+| 14 | 어제 오른 내 주식, 과연 내일은? | []() | ARIMA Stock Prediction | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration14/project) |
+
 
 
 <br>
