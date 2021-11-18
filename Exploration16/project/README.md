@@ -7,7 +7,7 @@
 <br><br>
 
 ## Super Resolution
-> Super Resolution(초해상화): 저해상도 영상을 고해상도 영상으로 변환하는 작업
+> Super Resolution(초해상화): 저해상도 영상을 고해상도 영상으로 변환하는 작업  
 
 <br>
 
@@ -32,8 +32,8 @@
 <br><br>
 
 ## Interpolation
-> 보간법(interpolation): 값을 알고 있는 두 점 사이 지점의 값이 얼마일지를 추정하는 기법.
->  많은 딥러닝 기반 Super Resolution 연구에서 결과를 비교하기 위해 수행
+> 보간법(interpolation): 값을 알고 있는 두 점 사이 지점의 값이 얼마일지를 추정하는 기법.  
+>  많은 딥러닝 기반 Super Resolution 연구에서 결과를 비교하기 위해 수행  
 
 <br>
 
@@ -55,8 +55,8 @@
 <br><br>
 
 ## SRCNN
-> Super Resolution Convolutional Neural Networks.
-> MSE(Mean Squared Error) loss function 사용
+> Super Resolution Convolutional Neural Networks.  
+> MSE(Mean Squared Error) loss function 사용  
 
 ![image](https://user-images.githubusercontent.com/88660886/142338447-2bf6a5c8-602f-4ff5-9c78-6b79a8292e94.png)  
 [이미지 출처](https://deepai.org/publication/deep-learning-for-single-image-super-resolution-a-brief-review)  
@@ -119,8 +119,8 @@
 <br><br>
 
 ## PSNR
-> peak Signal-to-Noise Ratio.
-> 영상 내에서 가질 수 있는 최대 신호 대 잡음(noise) 비
+> peak Signal-to-Noise Ratio.  
+> 영상 내에서 가질 수 있는 최대 신호 대 잡음(noise) 비  
 
 - 영상을 압축했을 때 화질이 얼마나 손실되었는지 평가하는 목적으로 사용  
 
@@ -130,8 +130,8 @@
 
 <br><br>
 ## SSIM
-> Structural Similarity Index Map
-> 얼마나 구조 정보를 변화시키지 않았는지를 계산
+> Structural Similarity Index Map  
+> 얼마나 구조 정보를 변화시키지 않았는지를 계산  
 
 - 높을수록 원본 품질에 가깝다는 의미
 
