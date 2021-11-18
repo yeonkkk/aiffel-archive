@@ -90,6 +90,54 @@
 
 <br><br>
 
+## SRGAN
+> Super Resoultion + GAN: GAN(Generative Adversarial Networks) 을 활용한 Super Resolution 
+
+![image](https://user-images.githubusercontent.com/88660886/142344382-34b54035-28a7-4b5f-9d80-2526e464024d.png)  
+[이미지 출처](https://arxiv.org/pdf/1609.04802.pdf)
+
+- k: kernel size, n: 필터의 수, s: stride 
+
+- 생성된 이미지와 실제 이미지를 이미지넷으로 사전 학습된 VGG 모델에 입력하여 나오는 feature map에서의 차이를 계산
+
+- `perceptual loss` = `content loss` + `adversarial loss`
+    
+    - `content loss`: VGG를 이용한 loss
+    - `adversarial loss`: GAN을 사용함으로써 발생하는 loss
+
+<br><br>
+
+### GAN(Generative adversarial network)
+> 원 데이터가 가지고 있는 확률분포를 추정하도록 하고, 인공신경망이 그 분포를 만들어 낼 수 있도록 한다
+
+- 랜덤변수에 대한 확률분포를 안다 → 랜덤변수 즉 데이터에 대한 전부를 이해하고 있다!
+
+- Generator: 학습 완료 후 데이터의 확률분포를 따르는 새로운 데이터 생성
+
+- Discriminator: 학습 완료 후 분류에 의미가 없는 0.5의 확률값을 출력
+
+<br><br>
+
+## PSNR
+> peak Signal-to-Noise Ratio.
+> 영상 내에서 가질 수 있는 최대 신호 대 잡음(noise) 비
+
+- 영상을 압축했을 때 화질이 얼마나 손실되었는지 평가하는 목적으로 사용  
+
+- 데시벨(db) 단위  
+
+- 높을수록 원본에 비해 손실이 적다는 의미  
+
+<br><br>
+## SSIM
+> Structural Similarity Index Map
+> 얼마나 구조 정보를 변화시키지 않았는지를 계산
+
+- 높을수록 원본 품질에 가깝다는 의미
+
+
+<br><br>
+
 ## 참고 자료
 
 [모니터의 핵심, 디스플레이의 스펙 따라잡기](https://news.lgdisplay.com/kr/2014/03/%eb%aa%a8%eb%8b%88%ed%84%b0-%ed%95%b5%ec%8b%ac-%eb%94%94%ec%8a%a4%ed%94%8c%eb%a0%88%ec%9d%b4%ec%9d%98-%ec%8a%a4%ed%8e%99-%eb%94%b0%eb%9d%bc%ec%9e%a1%ea%b8%b0-%ed%95%b4%ec%83%81%eb%8f%84/)
@@ -108,3 +156,24 @@ A Brief Review](https://arxiv.org/pdf/1808.03344.pdf)
 [OpenCV Documentation](https://docs.opencv.org/4.x/da/d54/group__imgproc__transform.html#ga5bb5a1fea74ea38e1a5445ca803ff121)
 
 [논문리뷰 - SRCNN](https://d-tail.tistory.com/6)
+
+[GAN - 스스로 학습하는 인공지능](https://www.samsungsds.com/kr/insights/Generative-adversarial-network-AI.html)
+
+[GAN - GAN의 개념과 이해](https://www.samsungsds.com/kr/insights/Generative-adversarial-network-AI-2.html)
+
+[최대신호대잡음비(PSNR)와 이미지 품질](https://bskyvision.com/392)
+
+[2D 이미지 품질 평가에 구조변화를 반영하는 SSIM과 그의 변형들](https://bskyvision.com/396)
+
+[공정한 AI 얼굴인식기](https://www.kakaobrain.com/blog/57)
+
+[Single Image Super Resolution using Deep Learning Overview](https://hoya012.github.io/blog/SIngle-Image-Super-Resolution-Overview/)
+
+[PR12 - SRCNN](https://www.youtube.com/watch?v=1jGr_OFyfa0)
+
+[PR12 - SRGAN](https://www.youtube.com/watch?v=nGPMKnoJTcI)
+
+[EDSR](https://www.youtube.com/watch?v=OMIqkn2DCUk)
+
+[딥러닝 Super Resolution 어디까지 왔니?](https://www.youtube.com/watch?v=nvsYKSHw0jo)
+
