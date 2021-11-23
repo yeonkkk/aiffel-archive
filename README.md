@@ -29,6 +29,11 @@
 | 24 | Likelihood(MLE와 MAP) | []() |
 | 25 | 정보이론 톺아보기 | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-25.-%EC%A0%95%EB%B3%B4%EC%9D%B4%EB%A1%A0-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0) |
 | 26 | 컴퓨터 파워 UP | [🏃‍](https://velog.io/@tjddus0302/FUNDAMENTAL-26.-%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%8C%8C%EC%9B%8C-UP) |
+| 27 | 더 많이! 더 깔끔하게! 데이터를 관리하는 데이터베이스 | []() |
+| 28 | SQL을 이용해 DB와 대화해보자 | []() |
+| 29 | 그나저나 데이터는 어디서 가져오지? | []() |
+| 30 | 파이썬으로 데이터 전처리 웹 만들기 | []() |
+| 31 | 맵리듀스로 그리는 빅데이터 지도 | []() |
 
 <br>
 
