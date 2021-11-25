@@ -1,3 +1,10 @@
+# 🔗프로젝트
+프로젝트 파일이 열리지 않는다면 하기 링크 중 하나를 이용해주세요!  
+[코랩 링크](https://colab.research.google.com/drive/1OnPXSFDgCtyQ3tQXFxkyHJ08s2KcrbBn?usp=sharing)  
+[Jupyter Notebook Viewer](https://nbviewer.org/github/yeonkkk/AIFFEL-Project/blob/main/Exploration16/project/%5BE_16%5DSRGAN.ipynb)  
+
+<br><br>
+
 # E-16. 흐린 사진을 선명하게
 
 `Super Resolution`을 사용하여 저해상도의 이미지를 고해상도의 이미지로 변환한다.  
