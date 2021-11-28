@@ -56,6 +56,10 @@
 | 12 | 다음에 볼 영화 예측하기 | []() |  Predict Next Movie | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration12/project) |
 | 13 | 인공지능으로 세상에 없던 새로운 패션 만들기 | []() | CIFAR10 DCGAN | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration13/project) |
 | 14 | 어제 오른 내 주식, 과연 내일은? | []() | ARIMA Stock Prediction | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration14/project) |
+| 15 | 트랜스포머로 만드는 대화형 챗봇 | []() | Transformer Chatbot | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration15/project) |
+| 16 | 흐린 사진을 선명하게 | [📝](https://github.com/yeonkkk/AIFFEL-Project/blob/main/Exploration16/project/README.md) | SRGAN | [🌟](https://github.com/yeonkkk/AIFFEL-Project/blob/main/Exploration16/project/%5BE_16%5DSRGAN.ipynb) |
+
+
 
 
 
