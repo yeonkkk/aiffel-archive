@@ -58,6 +58,7 @@
 | 14 | 어제 오른 내 주식, 과연 내일은? | []() | ARIMA Stock Prediction | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration14/project) |
 | 15 | 트랜스포머로 만드는 대화형 챗봇 | []() | Transformer Chatbot | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration15/project) |
 | 16 | 흐린 사진을 선명하게 | [📝](https://github.com/yeonkkk/AIFFEL-Project/blob/main/Exploration16/project/README.md) | SRGAN | [🌟](https://github.com/yeonkkk/AIFFEL-Project/blob/main/Exploration16/project/%5BE_16%5DSRGAN.ipynb) |
+| 17 | 인간보다 퀴즈를 잘 푸는 인공지능 | [📝](https://github.com/yeonkkk/AIFFEL-Project/blob/main/Exploration17/project/README.md) |  | []() |
 
 
 
