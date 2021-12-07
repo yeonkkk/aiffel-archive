@@ -19,20 +19,22 @@
 <br><br>
 
 #### Generator
-- 노이즈 $z$ 입력 → 특정 representation(검정색) 변환 → 가짜 데이터 $G(z)$ 생성   
+- 노이즈 z 입력 → 특정 representation(검정색) 변환 → 가짜 데이터 G(z) 생성   
 
 #### Discriminator
-- 실제 데이터 $x$와 가짜 데이터 $G(z)$를 입력 → $D(x)$, $D(G(z))$ (보라색) 계산 (진짜, 가짜 식별)    
+- 실제 데이터 x와 가짜 데이터 G(z)를 입력 → D(x), D(G(z)) (보라색) 계산 (진짜, 가짜 식별)    
 
 
 <br><br>
 <br><br>
 
 ### GAN의 목적 함수
+![CodeCogsEqn (1)](https://user-images.githubusercontent.com/88660886/145061774-a07470e5-f6ea-4841-9c41-ac1811b16322.png)
 
-$$
+
+<!-- $$
 {min_G}{max_D} {V(D,G)}=\mathbb{E}_{x\sim p_{data}~(x)}[log D(x)] + \mathbb{E}_{z\sim p_x(z)}[log(1-D(G(z)))]
-$$   
+$$    -->
 
 <br><br>
 <br><br>
@@ -53,28 +55,29 @@ $$
 <br><br>
 
 #### Generator  
-- $z$와 추가 정보 $y$ 입력받음 → Generator 내부에서 결합 → representation(검정색)으로 변환 → 가짜 데이터 $G(z∣y)$ 생성  
+- z와 추가 정보 y 입력받음 → Generator 내부에서 결합 → representation(검정색)으로 변환 → 가짜 데이터 G(z∣y) 생성  
 
-- MNIST나 CIFAR-10 등의 데이터셋에 대해 학습시키는 경우 $y$는 레이블 정보, 일반적으로 one-hot 벡터를 입력으로 넣음  
+- MNIST나 CIFAR-10 등의 데이터셋에 대해 학습시키는 경우 y는 레이블 정보, 일반적으로 one-hot 벡터를 입력으로 넣음  
 
 
 #### Discriminator
-- $x$와 $G(z∣y)$ 각각 입력받음 → $y$ 정보가 함께 입력 → 진짜와 가짜를 식별  
+- x와 G(z∣y) 각각 입력받음 → y 정보가 함께 입력 → 진짜와 가짜를 식별  
 
-- MNIST나 CIFAR-10 등의 데이터셋에 대해 학습시키는 경우 $x$와 $y$는 알맞은 한 쌍("7"이라 쓰인 이미지의 경우 레이블도 7)을 이뤄야 함.  
+- MNIST나 CIFAR-10 등의 데이터셋에 대해 학습시키는 경우 x와 y는 알맞은 한 쌍("7"이라 쓰인 이미지의 경우 레이블도 7)을 이뤄야 함.  
 
 
 <br><br>
 <br><br>
 
 ### cGAN의 목적 함수
-$$
+![CodeCogsEqn (3)](https://user-images.githubusercontent.com/88660886/145063109-b31a1ebd-4bf6-44d2-b927-8a5d1f9a51ff.png)
+<!-- $$
 {min_G}{max_D} {V(D,G)}=\mathbb{E}_{x\sim p_{data}~(x)}[log D(x)] + \mathbb{E}_{z\sim p_x(x∣y)}[log(1-D(G(x∣y)))]
 $$
+ -->
+- G와 D의 입력에 특정 조건을 나타내는 정보인 y를 같이 입력  
 
-- $G$와 $D$의 입력에 특정 조건을 나타내는 정보인 $y$를 같이 입력  
-
-- $y$는 임의 노이즈 입력인 $z$의 가이드와 같음  
+- y는 임의 노이즈 입력인 z의 가이드와 같음  
 
 <br><br>
 <br><br>
@@ -97,16 +100,19 @@ $$
 
 -  입력 이미지와 변환된 이미지의 크기는 동일해야 함  
 
-- Encoder: 입력 이미지($x$) 받음 → 단계적으로 이미지 down-sampling → representation 학습  
+- Encoder: 입력 이미지(x) 받음 → 단계적으로 이미지 down-sampling → representation 학습  
  
-- Decoder: 이미지 up-sampling → 입력 이미지와 동일한 크기의 이미지($y$) 생성  
+- Decoder: 이미지 up-sampling → 입력 이미지와 동일한 크기의 이미지(y) 생성  
 
 - 위 과정은 모두 convolution 레이어로 진행  
 
 - `bottleneck`  
+
 	- Encoder의 최종 출력  
-    - 위 이미지 중간의 가장 작은 사각형  
-    - 입력 이미지($x$)의 가장 중요한 특징들을 담고 있음  
+	
+    	- 위 이미지 중간의 가장 작은 사각형  
+    
+   	 - 입력 이미지(x)의 가장 중요한 특징들을 담고 있음  
 
 <br><br>
 <br><br>
