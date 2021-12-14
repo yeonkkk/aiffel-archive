@@ -40,7 +40,7 @@
 <br>
 
 ## Exploration
-|  | Contents | Project | Github<br>Link |
+|  | Contents | Project | GithubLink |
 |:--:|:---------------------------------------:|:----:|:----:|
 | 01 | 인공지능과 가위바위보 하기 | 가위바위보 분류기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration01) |
 | 02 | Iris의 세 가지 품종, 분류해볼 수 있겠어요? | Sklearn Toy Dataset Classification | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration02) |
@@ -53,7 +53,7 @@
 | 09 | 아이유팬이 좋아할 만한 다른 아티스트 찾기| Movie Recommendation | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration09) |
 | 10 | 뉴스 요약봇 만들기 | news summarization | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration10/project) |
 | 11 | 폐렴아 기다려라! |  Pneumonia Diagnosis | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration11/project) |
-| 12 | 다음에 볼 영화 예측하기 Predict Next Movie | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration12/project) |
+| 12 | 다음에 볼 영화 예측하기 | Predict Next Movie | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration12/project) |
 | 13 | 인공지능으로 세상에 없던 새로운 패션 만들기 | CIFAR10 DCGAN | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration13/project) |
 | 14 | 어제 오른 내 주식, 과연 내일은? | ARIMA Stock Prediction | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration14/project) |
 | 15 | 트랜스포머로 만드는 대화형 챗봇 | Transformer Chatbot | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration15/project) |
