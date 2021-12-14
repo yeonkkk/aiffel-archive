@@ -40,25 +40,26 @@
 <br>
 
 ## Exploration
-|  | Contents | Github<br>Link | Project | Github<br>Link |
-|:--:|:---------------------------------------:|:----:|:----:|:----:|
-| 01 | 인공지능과 가위바위보 하기 | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration1/summary) | 가위바위보 분류기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration1/project) |
-| 02 | Iris의 세 가지 품종, 분류해볼 수 있겠어요? | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration2/summary) | 사이킷런 Toy Dataset 분류 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration2/project) |
-| 03 | 카메라 스티커앱 만들기 첫걸음 | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration3/summary) | 얼굴인식으로 고양이 수염 스티커 붙이기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration3/project) |
-| 04 | 작사가 인공지능 만들기 | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration4/summary) | 작사 인공지능 만들기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration4/project) |
-| 05 | 나랑 닮은 연예인은 누구? | [📝](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration5/summary) | 나랑닮은 연예인을 찾아보자 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration5/project) |
-| 06 | 나의 첫 번째 캐글 경진대회, 무작정 따라해보기 | []() | 캐글 Leaderboard를 정복하기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration6/project) |
-| 07 | 영화리뷰 텍스트 감성분석하기 | []() | 네이버 영화리뷰 감성분석 도전하기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration7/project) |
-| 08 | 인물사진을 만들어 보자 | []() | Semantic segmentation | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration8/project) |
-| 09 | 아이유팬이 좋아할 만한 다른 아티스트 찾기 | []() | Movie Recommendation | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration9/project) |
-| 10 | 뉴스 요약봇 만들기 | []() | news summarization | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration10/project) |
-| 11 | 폐렴아 기다려라! | []() |  Pneumonia Diagnosis | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration11/project) |
-| 12 | 다음에 볼 영화 예측하기 | []() |  Predict Next Movie | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration12/project) |
-| 13 | 인공지능으로 세상에 없던 새로운 패션 만들기 | []() | CIFAR10 DCGAN | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration13/project) |
-| 14 | 어제 오른 내 주식, 과연 내일은? | []() | ARIMA Stock Prediction | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration14/project) |
-| 15 | 트랜스포머로 만드는 대화형 챗봇 | []() | Transformer Chatbot | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration15/project) |
-| 16 | 흐린 사진을 선명하게 | [📝](https://github.com/yeonkkk/AIFFEL-Project/blob/main/Exploration16/project/README.md) | SRGAN | [🌟](https://github.com/yeonkkk/AIFFEL-Project/blob/main/Exploration16/project/%5BE_16%5DSRGAN.ipynb) |
-| 17 | 인간보다 퀴즈를 잘 푸는 인공지능 | [📝](https://github.com/yeonkkk/AIFFEL-Project/blob/main/Exploration17/project/README.md) |  | []() |
+|  | Contents | Project | Github<br>Link |
+|:--:|:---------------------------------------:|:----:|:----:|
+| 01 | 인공지능과 가위바위보 하기 | 가위바위보 분류기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration01) |
+| 02 | Iris의 세 가지 품종, 분류해볼 수 있겠어요? | Sklearn Toy Dataset Classification | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration02) |
+| 03 | 카메라 스티커앱 만들기 첫걸음  | cat-whiskers sticker app | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration03) |
+| 04 | 작사가 인공지능 만들기  | lyrics generator | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration04) |
+| 05 | 나랑 닮은 연예인은 누구? | Face Embedding | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration05) |
+| 06 | 나의 첫 번째 캐글 경진대회, 무작정 따라해보기 | Kaggle ML month with KaKR | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration06/project) |
+| 07 | 영화리뷰 텍스트 감성분석하기 | Movie Sentiment Classification | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration07) |
+| 08 | 인물사진을 만들어 보자| Semantic segmentation | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration08) |
+| 09 | 아이유팬이 좋아할 만한 다른 아티스트 찾기| Movie Recommendation | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration09) |
+| 10 | 뉴스 요약봇 만들기 | news summarization | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration10/project) |
+| 11 | 폐렴아 기다려라! |  Pneumonia Diagnosis | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration11/project) |
+| 12 | 다음에 볼 영화 예측하기 Predict Next Movie | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration12/project) |
+| 13 | 인공지능으로 세상에 없던 새로운 패션 만들기 | CIFAR10 DCGAN | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration13/project) |
+| 14 | 어제 오른 내 주식, 과연 내일은? | ARIMA Stock Prediction | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration14/project) |
+| 15 | 트랜스포머로 만드는 대화형 챗봇 | Transformer Chatbot | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration15/project) |
+| 16 | 흐린 사진을 선명하게| SRGAN | [🌟](https://github.com/yeonkkk/AIFFEL-Project/blob/main/Exploration16/project) |
+| 17 | 인간보다 퀴즈를 잘 푸는 인공지능  | BERT | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration17) |
+| 18 |  문자를 읽을 수 있는 딥러닝  | OCR | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration18/project) |
 
 
 
