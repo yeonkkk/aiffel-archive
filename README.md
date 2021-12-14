@@ -40,7 +40,7 @@
 <br>
 
 ## Exploration
-|  | Contents | Project | GithubLink |
+|  | Contents | Project | Github Link |
 |:--:|:---------------------------------------:|:----:|:----:|
 | 01 | 인공지능과 가위바위보 하기 | 가위바위보 분류기 | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration01) |
 | 02 | Iris의 세 가지 품종, 분류해볼 수 있겠어요? | Sklearn Toy Dataset Classification | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration02) |
