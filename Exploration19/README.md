@@ -1,3 +1,9 @@
+## 🔗프로젝트
+프로젝트 파일이 열리지 않는다면 하기 링크를 이용해주세요!  
+[Jupyter Notebook Viewer](https://nbviewer.org/github/yeonkkk/AIFFEL-Project/blob/main/Exploration19/%5BE-19%5Dpix2pix.ipynb)  
+
+<br><br>
+
 # E-19. 난 스케치를 할 테니 너는 채색을 하거라
 > 조건 없는 생성모델(unconditioned generative model)은 생성하고자 하는 데이터에 대한 제어가 어려움  
 
