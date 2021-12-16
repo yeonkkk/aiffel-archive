@@ -1,4 +1,4 @@
-# ✨AIFFEL-Project
+# ✨AIFFEL
 
 ## Fundamental
 |  | Contents | Blog Link |
@@ -60,6 +60,7 @@
 | 16 | 흐린 사진을 선명하게| SRGAN | [🌟](https://github.com/yeonkkk/AIFFEL-Project/blob/main/Exploration16/project) |
 | 17 | 인간보다 퀴즈를 잘 푸는 인공지능  | BERT | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration17) |
 | 18 |  문자를 읽을 수 있는 딥러닝  | OCR | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration18/project) |
+| 19 |  난 스케치를 할 테니 너는 채색을 하거라 |  cGAN, pix2pix | [🌟](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration19) |
 
 
 
@@ -68,7 +69,7 @@
 <br>
 <br>
 
-# 🌱풀잎 스쿨
+# 🌱풀잎 스쿨(Flipped School)
 
 
 <br>
