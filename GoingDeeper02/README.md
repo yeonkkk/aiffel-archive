@@ -1,3 +1,13 @@
+# 🔗프로젝트
+[CutMix, Mixup 비교 프로젝트](https://github.com/yeonkkk/AIFFEL-Project/blob/main/GoingDeeper02/%5BGD2%5Daugmentation.ipynb)  
+
+<br>
+
+👇프로젝트 파일이 열리지 않는다면 하기 링크를 이용해주세요!  
+[Jupyter Notebook Viewer](https://nbviewer.org/github/yeonkkk/AIFFEL-Project/blob/main/GoingDeeper02/%5BGD2%5Daugmentation.ipynb)
+
+<br><br>
+
 # GD2. 잘 만든 Augmentation, 이미지 100장 안부럽다.
 > **Data Augmentation**: 주어진 데이터셋을 다양한 방법으로 증강시켜(augment) 학습 데이터셋의 규모를 늘리는 방법
 
