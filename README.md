@@ -65,3 +65,22 @@
 | 17 | 인간보다 퀴즈를 잘 푸는 인공지능  | BERT | [🔗](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration17) |
 | 18 |  문자를 읽을 수 있는 딥러닝  | OCR | [🔗](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration18/project) |
 | 19 |  난 스케치를 할 테니 너는 채색을 하거라 |  cGAN, pix2pix | [🔗](https://github.com/yeonkkk/AIFFEL-Project/tree/main/Exploration19) |
+
+<br>
+
+<br>
+
+
+## GoingDeeper
+|  | Project | Github Link |
+|:--:|:---------------------------------------:|:----:|
+| 01 |  ResNet Ablation Study | [🔗](https://github.com/yeonkkk/AIFFEL-Project/tree/main/GoingDeeper01) |
+| 02 |  Augmentation | [🔗](https://github.com/yeonkkk/AIFFEL-Project/tree/main/GoingDeeper02) |
+| 03 |  Class Activation Map | [🔗](https://github.com/yeonkkk/AIFFEL-Project/tree/main/GoingDeeper03) |
+| 04 |  Autonomous driving assistance system | [🔗](https://github.com/yeonkkk/AIFFEL-Project/tree/main/GoingDeeper04) |
+| 05 |  Object detection | [🔗](https://github.com/yeonkkk/AIFFEL-Project/tree/main/GoingDeeper07) |
+
+
+
+
+
